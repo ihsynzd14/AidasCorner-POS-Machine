@@ -1,0 +1,5 @@
+D:\Applciation POS\POS_Machine\POS_Machine\bin\Release\net6.0-windows\publish\POS_Machine.exe
+D:\Applciation POS\POS_Machine\POS_Machine\bin\Release\net6.0-windows\publish\POS_Machine.dll
+D:\Applciation POS\POS_Machine\POS_Machine\bin\Release\net6.0-windows\publish\POS_Machine.deps.json
+D:\Applciation POS\POS_Machine\POS_Machine\bin\Release\net6.0-windows\publish\POS_Machine.runtimeconfig.json
+D:\Applciation POS\POS_Machine\POS_Machine\bin\Release\net6.0-windows\publish\POS_Machine.pdb
